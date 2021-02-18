@@ -1,0 +1,7584 @@
+[
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Birthplace",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Albany N.Y.",
+          "Albany, NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Albany N.Y."
+      }
+    ],
+    "description": "Mass edit cells in column Birthplace"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Birthplace",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Northampton, PA",
+          "Northampton, Pa",
+          "Northhampton, Pa"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Northampton, PA"
+      }
+    ],
+    "description": "Mass edit cells in column Birthplace"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Birthplace",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Adams Co., PA",
+          "Adams Co., Pa"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Adams Co., PA"
+      },
+      {
+        "from": [
+          "Philadelphia",
+          "Philadelphia."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Philadelphia"
+      },
+      {
+        "from": [
+          "Sussex Co. Delaware",
+          "Sussex Co., Delaware"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Sussex Co. Delaware"
+      },
+      {
+        "from": [
+          "Carlisle, PA",
+          "Carlisle, Pa"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Carlisle, PA"
+      },
+      {
+        "from": [
+          "Philadelphia Co.",
+          "Philadelphia, Co."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Philadelphia Co."
+      }
+    ],
+    "description": "Mass edit cells in column Birthplace"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Birthplace",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Bucks Co.",
+          "Bucks Co"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Bucks Co."
+      },
+      {
+        "from": [
+          "Reading, PA",
+          "Reading, Pa"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Reading, PA"
+      },
+      {
+        "from": [
+          "Lancaster, PA",
+          "Lancaster, Pa"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Lancaster, PA"
+      }
+    ],
+    "description": "Mass edit cells in column Birthplace"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Birthplace",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Bucks Co., PA",
+          "Bucks Co. PA",
+          "Bucks Co., Pa"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Bucks Co., PA"
+      },
+      {
+        "from": [
+          "Boston, Mass",
+          "Boston, Massachusetts"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Boston, Mass"
+      },
+      {
+        "from": [
+          "Hartford, CT",
+          "Hartford, Connecticut"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hartford, CT"
+      },
+      {
+        "from": [
+          "Wilmington, Delaware",
+          "Wilmington, Dela."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Wilmington, Delaware"
+      }
+    ],
+    "description": "Mass edit cells in column Birthplace"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Birthplace",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Albany"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Albany, New York"
+      }
+    ],
+    "description": "Mass edit cells in column Birthplace"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Birthplace",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Albany N.Y."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Albany, New York"
+      }
+    ],
+    "description": "Mass edit cells in column Birthplace"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Birthplace",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Amsterdam, Holland",
+          "Holland, Amsterdam"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Amsterdam, Holland"
+      },
+      {
+        "from": [
+          "Penna.",
+          "Penna"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Penna."
+      },
+      {
+        "from": [
+          "Frederick Co, Maryland",
+          "Frederick Co., Maryland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Frederick Co, Maryland"
+      },
+      {
+        "from": [
+          "Lehigh Co.",
+          "Lehigh Co"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Lehigh Co."
+      },
+      {
+        "from": [
+          "Mifflin, PA",
+          "Mifflin, Pa"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Mifflin, PA"
+      }
+    ],
+    "description": "Mass edit cells in column Birthplace"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Birthplace",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Wirtemberg, Germany",
+          "Wirtemburg, Germany",
+          "Wurtemburg, Germ.",
+          "Wurtemburg, Germany"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Wirtemberg, Germany"
+      },
+      {
+        "from": [
+          "New Jersey",
+          "N. Jersey",
+          "N. Jers."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "New Jersey"
+      },
+      {
+        "from": [
+          "Delaware Co.",
+          "Delware Co."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Delaware Co."
+      },
+      {
+        "from": [
+          "Harrisburg",
+          "Harrisburgh"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Harrisburg"
+      },
+      {
+        "from": [
+          "New York",
+          "N. York"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "New York"
+      },
+      {
+        "from": [
+          "Virginia",
+          "Virgina"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Virginia"
+      },
+      {
+        "from": [
+          "New Hampshire",
+          "N. Hampshire"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "New Hampshire"
+      },
+      {
+        "from": [
+          "Northampton Co.",
+          "Northampton Co., PA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Northampton Co."
+      },
+      {
+        "from": [
+          "Boston",
+          "Boaston"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Boston"
+      }
+    ],
+    "description": "Mass edit cells in column Birthplace"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Birthplace",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Chambersburg",
+          "Chambersburg, PA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Chambersburg, PA"
+      },
+      {
+        "from": [
+          "York Co.",
+          "York, Co."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "York Co."
+      },
+      {
+        "from": [
+          "Huntingdon Co.",
+          "Huntingdon Co., PA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Huntingdon Co."
+      }
+    ],
+    "description": "Mass edit cells in column Birthplace"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Birthplace",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Lancaster Co.",
+          "Lancaster",
+          "Lancaster, PA",
+          "Lancaster City"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Lancaster Co."
+      },
+      {
+        "from": [
+          "Cumberland Co.",
+          "Cumberland Co., PA",
+          "Cumberland, PA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cumberland Co."
+      },
+      {
+        "from": [
+          "Montgomery",
+          "Montgomery Co.",
+          "Montgomery, PA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Montgomery, PA"
+      },
+      {
+        "from": [
+          "Saxony, Germany",
+          "Saxony, Germ."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Saxony, Germany"
+      },
+      {
+        "from": [
+          "Pennsylvania",
+          "Pennsylvania [[Penna]]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Pennsylvania"
+      },
+      {
+        "from": [
+          "Long Island",
+          "Long Island, New York"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Long Island"
+      },
+      {
+        "from": [
+          "Bucks Co.",
+          "W. Bucks Co."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Bucks Co."
+      },
+      {
+        "from": [
+          "Northampton Co.",
+          "Northampton, PA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Northampton Co."
+      },
+      {
+        "from": [
+          "Franklin Co.",
+          "Franklin Co., Pa"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Franklin Co."
+      },
+      {
+        "from": [
+          "Berks Co.",
+          "W. Berks Co."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Berks Co."
+      },
+      {
+        "from": [
+          "Lycoming Co., PA",
+          "Lycoming, Co."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Lycoming Co., PA"
+      }
+    ],
+    "description": "Mass edit cells in column Birthplace"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Birthplace",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Bradford Co., PA",
+          "W. Bradford Co, Maryland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Bradford Co., PA"
+      }
+    ],
+    "description": "Mass edit cells in column Birthplace"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Birthplace",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Adams Co."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Adams Co., PA"
+      }
+    ],
+    "description": "Mass edit cells in column Birthplace"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Birthplace",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Baltimore"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Baltimore, Maryland"
+      }
+    ],
+    "description": "Mass edit cells in column Birthplace"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Birthplace",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Bedford"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Bedford, PA"
+      }
+    ],
+    "description": "Mass edit cells in column Birthplace"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Birthplace",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Boston"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Boston, Mass"
+      }
+    ],
+    "description": "Mass edit cells in column Birthplace"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Birthplace",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Bucks Co."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Bucks Co., PA"
+      }
+    ],
+    "description": "Mass edit cells in column Birthplace"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Birthplace",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Carlisle"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Carlisle Co."
+      }
+    ],
+    "description": "Mass edit cells in column Birthplace"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Birthplace",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Connect."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Connecticut"
+      }
+    ],
+    "description": "Mass edit cells in column Birthplace"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Birthplace",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Dauphin Co."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Dauphin Co., PA"
+      }
+    ],
+    "description": "Mass edit cells in column Birthplace"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Birthplace",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Hanover"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hanover, Germany"
+      }
+    ],
+    "description": "Mass edit cells in column Birthplace"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Birthplace",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Hanover, Germ."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hanover, Germany"
+      }
+    ],
+    "description": "Mass edit cells in column Birthplace"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Birthplace",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Lebanon Co."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Lebanon Co., Pa"
+      }
+    ],
+    "description": "Mass edit cells in column Birthplace"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Birthplace",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Luzerne Co."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Luzerne Co., PA"
+      }
+    ],
+    "description": "Mass edit cells in column Birthplace"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Birthplace",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "NJ"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "New Jersey"
+      }
+    ],
+    "description": "Mass edit cells in column Birthplace"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Birthplace",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Pa"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Pennsylvania"
+      }
+    ],
+    "description": "Mass edit cells in column Birthplace"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Birthplace",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Penna."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Pennsylvania"
+      }
+    ],
+    "description": "Mass edit cells in column Birthplace"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Birthplace",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Perry Co."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Perry Co., Pa"
+      }
+    ],
+    "description": "Mass edit cells in column Birthplace"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Birthplace",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Perry Co. Pa"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Perry Co., Pa"
+      }
+    ],
+    "description": "Mass edit cells in column Birthplace"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Birthplace",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Pittsburg"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Pittsburg, PA"
+      }
+    ],
+    "description": "Mass edit cells in column Birthplace"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Birthplace",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Salem, New Jersey"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Salem, NJ"
+      }
+    ],
+    "description": "Mass edit cells in column Birthplace"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Birthplace",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Schuylkill"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Schuylkill Co."
+      }
+    ],
+    "description": "Mass edit cells in column Birthplace"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "EthnicityReligionOccupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Mulatto, laborer",
+          "Mulatto; Laborer",
+          "Mulatto; laborer",
+          "Laborer, mulatto",
+          "Mulatto, Laborer"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Mulatto, laborer"
+      },
+      {
+        "from": [
+          "Black; Laborer",
+          "Black, laborer",
+          "black, laborer",
+          "Laborer, Black"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Black; Laborer"
+      },
+      {
+        "from": [
+          "Black; female",
+          "Black; Female",
+          "Female; Black",
+          "black; female"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Black; female"
+      },
+      {
+        "from": [
+          "Black",
+          "black",
+          "(Black)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Black"
+      },
+      {
+        "from": [
+          "Black, blacksmith",
+          "Black; Blacksmith",
+          "black, blacksmith"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Black, blacksmith"
+      },
+      {
+        "from": [
+          "Black; Servant",
+          "Black, Servant",
+          "Black, servant"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Black; Servant"
+      },
+      {
+        "from": [
+          "Blacksmith",
+          "blacksmith"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Blacksmith"
+      },
+      {
+        "from": [
+          "Baker",
+          "baker"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Baker"
+      },
+      {
+        "from": [
+          "Black, barber",
+          "Black; Barber"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Black, barber"
+      },
+      {
+        "from": [
+          "Mulatto",
+          "mulatto"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Mulatto"
+      },
+      {
+        "from": [
+          "Black; Servant; Female",
+          "Female; Servant; Black"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Black; Servant; Female"
+      },
+      {
+        "from": [
+          "Laborer",
+          "laborer"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Laborer"
+      },
+      {
+        "from": [
+          "Mulatto; Shoemaker",
+          "Mulatto, shoemaker"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Mulatto; Shoemaker"
+      },
+      {
+        "from": [
+          "Light mulatto",
+          "light mulatto"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Light mulatto"
+      },
+      {
+        "from": [
+          "Mulatto; Blacksmith",
+          "Mulatto; blacksmith"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Mulatto; Blacksmith"
+      },
+      {
+        "from": [
+          "Black shoemaker",
+          "Black, Shoemaker"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Black shoemaker"
+      },
+      {
+        "from": [
+          "Cabinet Maker",
+          "Cabinet maker"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cabinet Maker"
+      },
+      {
+        "from": [
+          "Mulatto; Female",
+          "Mulatto; female"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Mulatto; Female"
+      },
+      {
+        "from": [
+          "House Carpenter",
+          "House carpenter"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "House Carpenter"
+      },
+      {
+        "from": [
+          "Mulatto, barber",
+          "Mulatto; Barber"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Mulatto, barber"
+      },
+      {
+        "from": [
+          "Weaver",
+          "[[Weaver]]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Weaver"
+      }
+    ],
+    "description": "Mass edit cells in column EthnicityReligionOccupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "EthnicityReligionOccupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Black, brickmaker",
+          "Black; Brick maker"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Black, brickmaker"
+      },
+      {
+        "from": [
+          "Brickmaker",
+          "Brick maker"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Brickmaker"
+      },
+      {
+        "from": [
+          "Gun stock maker",
+          "Gunstock maker"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gun stock maker"
+      },
+      {
+        "from": [
+          "Millwright",
+          "Mill wright"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Millwright"
+      },
+      {
+        "from": [
+          "Stage driver",
+          "Stagedriver"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Stage driver"
+      },
+      {
+        "from": [
+          "Stone cutter",
+          "Stonecutter"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Stone cutter"
+      },
+      {
+        "from": [
+          "Brick layer",
+          "Bricklayer"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Brick layer"
+      }
+    ],
+    "description": "Mass edit cells in column EthnicityReligionOccupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "SentencingLocation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Circuit court U.S.",
+          "Circuit Court U.S.",
+          "U.S. Circuit Court"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Circuit court U.S."
+      },
+      {
+        "from": [
+          "[[Crim. Sess. Phila.]]",
+          "[[Crim. Sess,. Phila.]]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "[[Crim. Sess. Phila.]]"
+      },
+      {
+        "from": [
+          "Franklin Co.",
+          "franklin Co."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Franklin Co."
+      },
+      {
+        "from": [
+          "[[PA]]",
+          "PA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "PA"
+      },
+      {
+        "from": [
+          "Tioga Co, Pa",
+          "tioga Co, Pa"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Tioga Co, Pa"
+      }
+    ],
+    "description": "Mass edit cells in column SentencingLocation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "SentencingLocation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Delaware Co.",
+          "Delware Co."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Delaware Co."
+      },
+      {
+        "from": [
+          "Northumberland",
+          "Northumberland Co."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Northumberland"
+      },
+      {
+        "from": [
+          "Northern Liberties, Philadelphia",
+          "Northern Liberties"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Northern Liberties, Philadelphia"
+      }
+    ],
+    "description": "Mass edit cells in column SentencingLocation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "SentencingLocation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Schuylkill Co.",
+          "Schulykill Co."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Schuylkill Co."
+      }
+    ],
+    "description": "Mass edit cells in column SentencingLocation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "SentencingLocation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Lancaster Co.",
+          "Lancaster",
+          "Lancaster City",
+          "Lancaster Co. Pa"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Lancaster Co."
+      },
+      {
+        "from": [
+          "Northampton",
+          "Northampton Co.",
+          "Northampton, Pa"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Northampton"
+      },
+      {
+        "from": [
+          "Montgomery Co.",
+          "Montgomery",
+          "Montgomery Co., PA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Montgomery Co."
+      },
+      {
+        "from": [
+          "Cumberland Co.",
+          "Cumberland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cumberland Co."
+      },
+      {
+        "from": [
+          "[[Crim. Sess. Phila.]]",
+          "[[Crim. Sess. Pa.]]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "[[Crim. Sess. Phila.]]"
+      },
+      {
+        "from": [
+          "Philadelphia Co.",
+          "Philadelphia city and county"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Philadelphia Co."
+      }
+    ],
+    "description": "Mass edit cells in column SentencingLocation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Offense",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Horse Stealing & Larceny",
+          "Horse stealing & Larceny",
+          "Horse stealing & larceny",
+          "Horse stealing + Larceny"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Horse Stealing & Larceny"
+      },
+      {
+        "from": [
+          "Assault and battery intent to kill",
+          "Assault and battery, intent to kill"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Assault and battery intent to kill"
+      },
+      {
+        "from": [
+          "Murder, 2nd degree",
+          "Murder 2nd degree"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Murder, 2nd degree"
+      },
+      {
+        "from": [
+          "Horse stealing",
+          "Horse Stealing"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Horse stealing"
+      },
+      {
+        "from": [
+          "Assault and Battery, intent to rape",
+          "Assault and battery intent to rape"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Assault and Battery, intent to rape"
+      },
+      {
+        "from": [
+          "Assault intention to kill",
+          "Assault, intention to kill"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Assault intention to kill"
+      },
+      {
+        "from": [
+          "Counterfeiting Forgery",
+          "Forgery & counterfeiting"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Counterfeiting Forgery"
+      },
+      {
+        "from": [
+          "Assault and Battery",
+          "Assault and battery"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Assault and Battery"
+      },
+      {
+        "from": [
+          "Larceny",
+          "larceny"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Larceny"
+      },
+      {
+        "from": [
+          "Counterfeiting",
+          "counterfeiting"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Counterfeiting"
+      },
+      {
+        "from": [
+          "Selling Counterfeit Money",
+          "Selling counterfeit money"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Selling Counterfeit Money"
+      },
+      {
+        "from": [
+          "Burglary & Larceny",
+          "Burglary & larceny"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Burglary & Larceny"
+      }
+    ],
+    "description": "Mass edit cells in column Offense"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Offense",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Assault and battery intent to kill",
+          "Assault and Battery, intent to rape",
+          "Assault and battery intent to ravish",
+          "Assault and Battery intention to rape",
+          "Assault and batter intent to kill",
+          "Assault and batter intent to rape",
+          "Assault and battery intent to commit rape"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Assault and battery intent to kill"
+      },
+      {
+        "from": [
+          "Horse stealing",
+          "Horse Stealing & Larceny",
+          "Horse stealing and larceny",
+          "Horse Stealing & Forgery",
+          "Horse stealing & assault and battery"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Horse stealing"
+      },
+      {
+        "from": [
+          "Assault and battery with intent to kill",
+          "Assault and battery with intent to rob and burglary",
+          "Assault and battery with intent to commit rape",
+          "Assault and battery with intent to commit rape Another in Walnut St. prison intent to kill"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Assault and battery with intent to kill"
+      },
+      {
+        "from": [
+          "Counterfeiting",
+          "Counterfeiting Forgery",
+          "Counterfeiting Coin"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Counterfeiting"
+      },
+      {
+        "from": [
+          "Assault intention to kill",
+          "Assault intention to rape"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Assault intention to kill"
+      },
+      {
+        "from": [
+          "Burglary",
+          "Burglery"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Burglary"
+      },
+      {
+        "from": [
+          "Assault & battery, intent to kill",
+          "Assault & battery, intent to rape"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Assault & battery, intent to kill"
+      }
+    ],
+    "description": "Mass edit cells in column Offense"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Offense",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Burglaries",
+          "Burglary [[etc]]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Burglaries"
+      }
+    ],
+    "description": "Mass edit cells in column Offense"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Offense",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Counterfeiting",
+          "Counterfeit money"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Counterfeiting"
+      },
+      {
+        "from": [
+          "Conspiracy",
+          "Conspiracy to defraud"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Conspiracy"
+      },
+      {
+        "from": [
+          "Larceny & Breaking prison [[etc]]",
+          "Larceny & Prison Breaking"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Larceny & Breaking prison [[etc]]"
+      },
+      {
+        "from": [
+          "Manslaughter",
+          "Manslaughter (brother)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Manslaughter"
+      },
+      {
+        "from": [
+          "Disorderly House",
+          "Disorderly, Bawdy house"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Disorderly House"
+      },
+      {
+        "from": [
+          "Burglary and Larceny",
+          "Burglary and rec. stolen goods"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Burglary and Larceny"
+      }
+    ],
+    "description": "Mass edit cells in column Offense"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Age",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Age using expression value.toNumber()"
+  },
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "range",
+          "name": "Age",
+          "expression": "value",
+          "columnName": "Age",
+          "from": 11,
+          "to": 76,
+          "selectNumeric": false,
+          "selectNonNumeric": false,
+          "selectBlank": true,
+          "selectError": true
+        },
+        {
+          "type": "list",
+          "name": "Starred Rows",
+          "expression": "row.starred",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "record-based"
+    },
+    "description": "Remove rows"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "ColumnNote",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "reads and writes; drinks; married",
+          "reads and writes, drinks, married",
+          "Reads and writes, drinks, married",
+          "reads and writes; married; drinks",
+          "drinks; married; reads and writes",
+          "reads and writes, married, drinks"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes; drinks; married"
+      },
+      {
+        "from": [
+          "reads and writes, drinks, single",
+          "reads and writes; drinks; single",
+          "Reads and writes, drinks, single",
+          "reads and writes; single; drinks",
+          "reads and writes, drinks , single",
+          "reads and writes, drinks,  single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes, drinks, single"
+      },
+      {
+        "from": [
+          "reads and writes; sober; single",
+          "reads and writes, sober, single",
+          "reads and writes; single; sober",
+          "Reads and writes, sober, single",
+          "Reads and writes; sober; single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes; sober; single"
+      },
+      {
+        "from": [
+          "reads, drinks, single",
+          "reads; drinks; single",
+          "Reads, drinks, single",
+          "Reads, single, drinks",
+          "reads; single; drinks"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads, drinks, single"
+      },
+      {
+        "from": [
+          "can't read or write, drinks, single",
+          "Can't read or write, drinks, single",
+          "can't read or write; drinks; single",
+          "Can't read or write, single, drinks"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can't read or write, drinks, single"
+      },
+      {
+        "from": [
+          "reads, drinks, married",
+          "reads; drinks; married",
+          "Reads, drinks, married",
+          "Reads; married; drinks"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads, drinks, married"
+      },
+      {
+        "from": [
+          "Reads and writes a little, drinks, single",
+          "reads and writes a little, single, drinks",
+          "reads and writes a little; single; drinks",
+          "reads and writes; drinks a little; single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Reads and writes a little, drinks, single"
+      },
+      {
+        "from": [
+          "Can't read or write, temperate, single",
+          "can't read or write, temperate, single",
+          "Can't read or write, single, temperate",
+          "Can't read or write, temperate,  single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can't read or write, temperate, single"
+      },
+      {
+        "from": [
+          "reads, sober, married",
+          "reads, married, sober",
+          "reads; sober; married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads, sober, married"
+      },
+      {
+        "from": [
+          "cannot read; drinks; single",
+          "Cannot read; drinks; single",
+          "cannot read; single; drinks"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "cannot read; drinks; single"
+      },
+      {
+        "from": [
+          "reads, sober, single",
+          "reads; sober; single",
+          "reads; single; sober"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads, sober, single"
+      },
+      {
+        "from": [
+          "reads and writes; gets drunk; single",
+          "reads and writes, gets drunk, single",
+          "reads and writes; single; gets drunk"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes; gets drunk; single"
+      },
+      {
+        "from": [
+          "Can't read, temperate, married",
+          "can't read, married, temperate",
+          "can't read, temperate, married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can't read, temperate, married"
+      },
+      {
+        "from": [
+          "reads and writes, temperate, married",
+          "Reads and writes, temperate, married",
+          "reads and writes, married, temperate"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes, temperate, married"
+      },
+      {
+        "from": [
+          "reads and writes, temperate, single",
+          "Reads and writes, temperate, single",
+          "reads and writes, single, temperate"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes, temperate, single"
+      },
+      {
+        "from": [
+          "Temperate, single, reads and writes German",
+          "reads and writes German, temperate, single",
+          "reads and writes, german, temperate, Single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Temperate, single, reads and writes German"
+      },
+      {
+        "from": [
+          "reads & writes, gets drunk, single",
+          "reads, writes, gets drunk, single",
+          "reads, writes, single, gets drunk"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads & writes, gets drunk, single"
+      },
+      {
+        "from": [
+          "Can't read or write, married, sober",
+          "Can't read or write, sober, married",
+          "can't read or write, sober, married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can't read or write, married, sober"
+      },
+      {
+        "from": [
+          "reads and writes; drinks; widower",
+          "reads and writes, drinks, widower",
+          "reads and writes, widower, drinks"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes; drinks; widower"
+      },
+      {
+        "from": [
+          "Can't read",
+          "can't read"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can't read"
+      },
+      {
+        "from": [
+          "reads; got drunk; single",
+          "reads, got drunk, single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads; got drunk; single"
+      },
+      {
+        "from": [
+          "reads, writes, gets drunk, married",
+          "reads & writes, gets drunk, married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads, writes, gets drunk, married"
+      },
+      {
+        "from": [
+          "reads and writes; sober; married",
+          "reads and writes; married; sober"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes; sober; married"
+      },
+      {
+        "from": [
+          "can't read or write, drunk, single",
+          "Can't read or write, drunk, single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can't read or write, drunk, single"
+      },
+      {
+        "from": [
+          "reads, drank, married",
+          "reads; drank; married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads, drank, married"
+      },
+      {
+        "from": [
+          "reads and writes; gets drunk; married",
+          "Reads and writes; gets drunk; married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes; gets drunk; married"
+      },
+      {
+        "from": [
+          "can't read or write, drinks, married",
+          "Can't read or write, drinks, married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can't read or write, drinks, married"
+      },
+      {
+        "from": [
+          "reads; gets drunk; single",
+          "reads, gets drunk, single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads; gets drunk; single"
+      },
+      {
+        "from": [
+          "can't read, drinks, single",
+          "can't read, single, drinks"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can't read, drinks, single"
+      },
+      {
+        "from": [
+          "reads and writes a little; gets drunk; married",
+          "reads and writes a little; married; gets drunk"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes a little; gets drunk; married"
+      },
+      {
+        "from": [
+          "reads a little; gets drunk; single",
+          "reads a little, gets drunk, single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads a little; gets drunk; single"
+      },
+      {
+        "from": [
+          "cannot read; gets drunk; single",
+          "cannot read, gets drunk, single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "cannot read; gets drunk; single"
+      },
+      {
+        "from": [
+          "cannot read or write; drinks; single",
+          "cannot read or write, drinks, single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "cannot read or write; drinks; single"
+      },
+      {
+        "from": [
+          "reads & writes, married, temperate",
+          "reads & writes, temperate, married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads & writes, married, temperate"
+      },
+      {
+        "from": [
+          "reads, writes, drinks, single",
+          "reads & writes, drinks, single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads, writes, drinks, single"
+      },
+      {
+        "from": [
+          "reads and writes, single",
+          "reads and writes; single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes, single"
+      },
+      {
+        "from": [
+          "Reads, drunk, married",
+          "reads, drunk, married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Reads, drunk, married"
+      },
+      {
+        "from": [
+          "Can't read or write, temperate, married",
+          "can't read or write, temperate, married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can't read or write, temperate, married"
+      },
+      {
+        "from": [
+          "Can't read or write, gets drunk, married",
+          "can't read or write, gets drunk, married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can't read or write, gets drunk, married"
+      },
+      {
+        "from": [
+          "reads and writes",
+          "Reads and writes"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes"
+      },
+      {
+        "from": [
+          "reads, temperate, married",
+          "reads, married, temperate"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads, temperate, married"
+      },
+      {
+        "from": [
+          "reads German; gets drunk; married",
+          "reads; gets drunk; married; reads German"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads German; gets drunk; married"
+      },
+      {
+        "from": [
+          "can't read, sober, single",
+          "Can't read, sober, single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can't read, sober, single"
+      },
+      {
+        "from": [
+          "reads and writes; got drunk; single",
+          "Reads and writes, got drunk, single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes; got drunk; single"
+      },
+      {
+        "from": [
+          "Reads and writes, temperate",
+          "reads and writes; temperate"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Reads and writes, temperate"
+      },
+      {
+        "from": [
+          "reads and writes; married; drank",
+          "reads and writes; drank; married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes; married; drank"
+      },
+      {
+        "from": [
+          "cannot read or write; drinks; single; learned to read",
+          "cannot read or write; single; drinks; learned to read"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "cannot read or write; drinks; single; learned to read"
+      },
+      {
+        "from": [
+          "Cannot read; drinks; single; reads German",
+          "cannot read; drinks; single; reads German"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cannot read; drinks; single; reads German"
+      },
+      {
+        "from": [
+          "reads, writes, sober, married",
+          "reads, writes, married, sober"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads, writes, sober, married"
+      },
+      {
+        "from": [
+          "reads; drinks; widow",
+          "reads, drinks, widow"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads; drinks; widow"
+      },
+      {
+        "from": [
+          "can't read or write, gets drunk, single",
+          "can't read or write; gets drunk; single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can't read or write, gets drunk, single"
+      },
+      {
+        "from": [
+          "reads & writes, drunk, single",
+          "reads, writes, drunk, single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads & writes, drunk, single"
+      },
+      {
+        "from": [
+          "cannot read; drinks; married",
+          "cannot read; married; drinks"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "cannot read; drinks; married"
+      },
+      {
+        "from": [
+          "Can read",
+          "can read"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can read"
+      },
+      {
+        "from": [
+          "reads & writes German, sober, married",
+          "reads writes German, married, sober"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads & writes German, sober, married"
+      },
+      {
+        "from": [
+          "reads, writes, drinks, married",
+          "reads & writes, drinks, married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads, writes, drinks, married"
+      },
+      {
+        "from": [
+          "reads, writes, drunk, married",
+          "reads & writes, drunk, married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads, writes, drunk, married"
+      },
+      {
+        "from": [
+          "cannot read or write; gets drunk; single",
+          "cannot read or write, gets drunk, single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "cannot read or write; gets drunk; single"
+      },
+      {
+        "from": [
+          "reads, writes, single, temperate",
+          "reads, writes, temperate, single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads, writes, single, temperate"
+      },
+      {
+        "from": [
+          "reads a little, drinks, married",
+          "reads a little; married; drinks"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads a little, drinks, married"
+      },
+      {
+        "from": [
+          "reads, single, drank",
+          "reads; drank; single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads, single, drank"
+      }
+    ],
+    "description": "Mass edit cells in column ColumnNote"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "ColumnNote",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "can't read or write, drinks, single",
+          "can't read or write, drunk, single",
+          "cannot read or write; drinks; single",
+          "Can't read or write, drink, single",
+          "can't read or write, drank, single",
+          "cannot read or write, drunk, single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can't read or write, drinks, single"
+      },
+      {
+        "from": [
+          "can't read, drinks, single",
+          "cannot read; drinks; single",
+          "cannot read; drank; single",
+          "cannot read; drink; single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can't read, drinks, single"
+      },
+      {
+        "from": [
+          "reads, writes, drunk, married",
+          "reads & writes, yet [[drunk]], married",
+          "reads, writes, drink, married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads, writes, drunk, married"
+      },
+      {
+        "from": [
+          "Can't read or write, temperate, single",
+          "cannot read or write, temperate, single",
+          "cannot read or write, temperate, single [[4,3 ...]]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can't read or write, temperate, single"
+      },
+      {
+        "from": [
+          "reads and writes, drinks, single",
+          "Reads and writes, drunks, single",
+          "reads and writes, drunk, single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes, drinks, single"
+      },
+      {
+        "from": [
+          "reads, drinks, single",
+          "reads, drink, single",
+          "reads, drunk, single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads, drinks, single"
+      },
+      {
+        "from": [
+          "reads, writes, drinks, single",
+          "reads, writes, drink, single",
+          "reads & writes, drunk, single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads, writes, drinks, single"
+      },
+      {
+        "from": [
+          "can't read, sober, single",
+          "cannot read; sober; single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can't read, sober, single"
+      }
+    ],
+    "description": "Mass edit cells in column ColumnNote"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "ColumnNote",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "can't read or write, drinks, married",
+          "cannot read or write; drinks; married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can't read or write, drinks, married"
+      },
+      {
+        "from": [
+          "Can't read or write; has learned to read",
+          "Cannot read or write; has learned to read"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can't read or write; has learned to read"
+      },
+      {
+        "from": [
+          "Can't read or write, married, sober",
+          "cannot read or write; unmarried; sober"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can't read or write, married, sober"
+      },
+      {
+        "from": [
+          "can't read or write, sober, single",
+          "cannot read or write; sober; single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can't read or write, sober, single"
+      },
+      {
+        "from": [
+          "reads a little; sober; single",
+          "reads little, sober, single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads a little; sober; single"
+      },
+      {
+        "from": [
+          "Reads, drunk, married",
+          "reads, drank, married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Reads, drunk, married"
+      },
+      {
+        "from": [
+          "Can't read, temperate, single",
+          "cannot read; temperate; single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can't read, temperate, single"
+      },
+      {
+        "from": [
+          "can't read, drinks, married",
+          "cannot read; drinks; married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can't read, drinks, married"
+      },
+      {
+        "from": [
+          "Can't read or write, gets drunk, married",
+          "Cannot read or write; gets drunk; married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can't read or write, gets drunk, married"
+      },
+      {
+        "from": [
+          "cannot read or write; gets drunk; single",
+          "can't read or write, gets drunk, single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "cannot read or write; gets drunk; single"
+      },
+      {
+        "from": [
+          "Can't read or write, married",
+          "cannot read or write; married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can't read or write, married"
+      },
+      {
+        "from": [
+          "reads and writes, temperate, married",
+          "reads and wirtes, temperate, married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes, temperate, married"
+      },
+      {
+        "from": [
+          "can't read or write, drunk, married",
+          "cannot read or write, drunk, married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can't read or write, drunk, married"
+      },
+      {
+        "from": [
+          "reads, writes, drink, widower",
+          "reads, writes, drunk, widower"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads, writes, drink, widower"
+      },
+      {
+        "from": [
+          "cannot read; gets drunk; single",
+          "can't read, gets drunk, single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "cannot read; gets drunk; single"
+      },
+      {
+        "from": [
+          "cannot read or write; drinks; single; learned to read",
+          "can't read or write; drinks; single; learned to read"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "cannot read or write; drinks; single; learned to read"
+      },
+      {
+        "from": [
+          "Can't read or write",
+          "Cannot read or write"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can't read or write"
+      },
+      {
+        "from": [
+          "reads and writes; drank some; single",
+          "reads and writes; drinks some; single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes; drank some; single"
+      },
+      {
+        "from": [
+          "Can't read; has learned in prison",
+          "Cannot read; has learned in prison"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can't read; has learned in prison"
+      }
+    ],
+    "description": "Mass edit cells in column ColumnNote"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "ColumnNote",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Can read"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can read and write"
+      }
+    ],
+    "description": "Mass edit cells in column ColumnNote"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "ColumnNote",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Can read [[etc]]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can read and write"
+      }
+    ],
+    "description": "Mass edit cells in column ColumnNote"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "ColumnNote",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "can't read, drinks, married",
+          "can't read, drink, married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can't read, drinks, married"
+      },
+      {
+        "from": [
+          "can't read or write, drinks, single",
+          "can't read or writes, drinks, single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can't read or write, drinks, single"
+      },
+      {
+        "from": [
+          "reads, writes, drink, widower",
+          "reads, writes, drinks, widower"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads, writes, drink, widower"
+      },
+      {
+        "from": [
+          "read, writes, drinks, widower",
+          "reads, writes, drinks, widower"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "read, writes, drinks, widower"
+      }
+    ],
+    "description": "Mass edit cells in column ColumnNote"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "ColumnNote",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "reads and writes, drinks, single",
+          "reads, writes, drinks, single",
+          "Reads and writes a little, drinks, single",
+          "read, writes, drink, single",
+          "reads & writes a letter, drinks, single",
+          "reads and writes; drinks; is single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes, drinks, single"
+      },
+      {
+        "from": [
+          "can't read or write, drinks, single",
+          "cannot read or write; drinks; single; learned to read",
+          "cannot read or write; drinks; single; can read",
+          "can't read or write, drinks, single, reads [[little]]",
+          "cannot read or write; drinks; single; reads"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can't read or write, drinks, single"
+      },
+      {
+        "from": [
+          "can spell; gets drunk; single; reads learned in prison",
+          "cannot read; gets drunk; single; reads a little learned in prison",
+          "cannot read; gets drunk; single; spelling reading",
+          "cannot read; got drunk; single; learned to read in prison"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can spell; gets drunk; single; reads learned in prison"
+      },
+      {
+        "from": [
+          "cannot read or write; drank some; married; learned to read",
+          "cannot read or write; drinks a little; married",
+          "cannot read; drank seldom; widower",
+          "cannot read; drank some; widower; learned to read"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "cannot read or write; drank some; married; learned to read"
+      },
+      {
+        "from": [
+          "reads and writes; gets drunk; single",
+          "reads & writes, gets drunk, single",
+          "reads and writes a little; gets drunk; single",
+          "reads and writes, drinks and gets drunk, single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes; gets drunk; single"
+      },
+      {
+        "from": [
+          "reads and writes; gets drunk; widower",
+          "reads, writes, gets drunk, widower",
+          "reads, writes, gets drunk, widow",
+          "reads; got drunk; widow"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes; gets drunk; widower"
+      },
+      {
+        "from": [
+          "reads and writes; got drunk; single",
+          "Reads and writes a little; gets drunk; widower",
+          "reads & writes, got drunk, single",
+          "reads and writes; single; does not get drunk"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes; got drunk; single"
+      },
+      {
+        "from": [
+          "reads; gets drunk; single",
+          "reads a little; gets drunk; single",
+          "Reads, drinks and gets drunk, single",
+          "Reads, drinks, gets drunk, single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads; gets drunk; single"
+      },
+      {
+        "from": [
+          "reads and writes; sober; single",
+          "reads, writes, sober, single",
+          "reads & writes a little, sober, single",
+          "reads and writes a little; sober; single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes; sober; single"
+      },
+      {
+        "from": [
+          "Can't read; has learned in prison",
+          "Can read a little; has learned to read in prison",
+          "cannot read; can read; has learned to read in prison"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can't read; has learned in prison"
+      },
+      {
+        "from": [
+          "cannot read or write; sober; married; reads learned in prison",
+          "cannot read; married; sober; can't spell and will not learn",
+          "cannot read; sober; married; learned to read and write in prison"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "cannot read or write; sober; married; reads learned in prison"
+      },
+      {
+        "from": [
+          "cannot read; gets drunk; married; learned to spell",
+          "cannot read; got drunk; married; learned to spell",
+          "cannot read; married; gets drunk; learned to read in prison"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "cannot read; gets drunk; married; learned to spell"
+      },
+      {
+        "from": [
+          "cannot read or write; drank some; single; spelling; learning to read; reads now",
+          "cannot read or write; drank; married; is spelling",
+          "cannot read or write; drinks; married; learning to spell"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "cannot read or write; drank some; single; spelling; learning to read; reads now"
+      },
+      {
+        "from": [
+          "cannot read; drinks; single; learning to read",
+          "Cannot read [[etc]]; single; drinks",
+          "cannot read; drinks; single; reads"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "cannot read; drinks; single; learning to read"
+      },
+      {
+        "from": [
+          "Can't read or write, gets drunk, married",
+          "Cannot read or write; got drunk sometimes; married; can read",
+          "cannot read or writes; gets drunk; married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can't read or write, gets drunk, married"
+      },
+      {
+        "from": [
+          "reads and writes; gets drunk; married",
+          "reads, writes, gets drunk, married",
+          "reads and writes German; married; gets drunk"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes; gets drunk; married"
+      },
+      {
+        "from": [
+          "reads, writes, drunk, married",
+          "reads and writes, drunk, married",
+          "reads and writes; unmarried; drinks"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads, writes, drunk, married"
+      },
+      {
+        "from": [
+          "reads; drinks; widow",
+          "reads, drink, widowed",
+          "reads, drinks, widower"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads; drinks; widow"
+      },
+      {
+        "from": [
+          "reads and writes; drinks; married",
+          "reads, writes, drinks, married",
+          "reads and writes; married; drank"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes; drinks; married"
+      },
+      {
+        "from": [
+          "reads, drinks, single",
+          "reads, single, drank",
+          "reads; is single; drinks"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads, drinks, single"
+      },
+      {
+        "from": [
+          "Can't read or write; learned to read in prison",
+          "can't read or write; Can read learned in prison",
+          "can't read; learned to read and write in prison"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can't read or write; learned to read in prison"
+      },
+      {
+        "from": [
+          "can't read or write; gets drunk; single; has learned to read",
+          "cannot read; gets drunk; single; has learned to read and write",
+          "reads and writes; single; got drunk when he could"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can't read or write; gets drunk; single; has learned to read"
+      },
+      {
+        "from": [
+          "reads and writes; drinks; widower",
+          "read, writes, drinks, widower",
+          "reads, writes, drink, widower"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes; drinks; widower"
+      },
+      {
+        "from": [
+          "reads a little, drinks, married",
+          "reads; drank a little; married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads a little, drinks, married"
+      },
+      {
+        "from": [
+          "reads, temperate, single",
+          "reads a little, temperate, single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads, temperate, single"
+      },
+      {
+        "from": [
+          "Can read a little; gets drunk",
+          "can read; gets drunk; single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can read a little; gets drunk"
+      },
+      {
+        "from": [
+          "Cannot read or write, drinks, married with 5 children",
+          "can't read or write, drinks, married, 5 children"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cannot read or write, drinks, married with 5 children"
+      },
+      {
+        "from": [
+          "Cannot read; drinks; single; reads learned in prison",
+          "cannot read; drinks a little; single; spells; learned to read"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cannot read; drinks; single; reads learned in prison"
+      },
+      {
+        "from": [
+          "can't read or write, sober, single",
+          "cannot read or write; sober; single; reads"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can't read or write, sober, single"
+      },
+      {
+        "from": [
+          "reads & writes, married, temperate",
+          "reads, writes, temp, married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads & writes, married, temperate"
+      },
+      {
+        "from": [
+          "Can't read or write, widow, drunk",
+          "can't read or write, drunk, widower"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can't read or write, widow, drunk"
+      },
+      {
+        "from": [
+          "reads only; gets drunk; married",
+          "reads only; got drunk; married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads only; gets drunk; married"
+      },
+      {
+        "from": [
+          "Reads; got drunk sometimes; single",
+          "gets drunk; single; learned to read in Testament; Learned to read"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Reads; got drunk sometimes; single"
+      },
+      {
+        "from": [
+          "Can read and write; single",
+          "can't read & write, single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can read and write; single"
+      },
+      {
+        "from": [
+          "Can't read or write",
+          "cannot read or write; can now read"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can't read or write"
+      },
+      {
+        "from": [
+          "can't read or write, sober",
+          "can't read or write, sober, widowed"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can't read or write, sober"
+      },
+      {
+        "from": [
+          "cannot read or write; got drunk; married; spelling in letter",
+          "cannot read; gets drunk; married; now spells and reads some"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "cannot read or write; got drunk; married; spelling in letter"
+      },
+      {
+        "from": [
+          "reads and writes; sober; widower",
+          "reads and writes, sober"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes; sober; widower"
+      },
+      {
+        "from": [
+          "reads, writes, married, drinks hard at times",
+          "white, reads, drinks, married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads, writes, married, drinks hard at times"
+      },
+      {
+        "from": [
+          "reads; gets drunk; single; reads learned in prison",
+          "reads; is single; drinks and gets drunk; learned to read in prison"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads; gets drunk; single; reads learned in prison"
+      },
+      {
+        "from": [
+          "can read and write; gets drunk; single",
+          "can read and write a little; gets drunk; single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can read and write; gets drunk; single"
+      },
+      {
+        "from": [
+          "reads a little; drinks; single; spells only",
+          "spells only; drinks a little; single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads a little; drinks; single; spells only"
+      },
+      {
+        "from": [
+          "Can't read, temperate, single",
+          "reads, can read a little, temperate, single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can't read, temperate, single"
+      },
+      {
+        "from": [
+          "reads and writes; drank some; married",
+          "reads and writes; married; drinks some"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes; drank some; married"
+      },
+      {
+        "from": [
+          "Cannot read; gets drunk sometimes; single; catholic",
+          "can't read; gets drunk sometimes; single; has learned to read"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cannot read; gets drunk sometimes; single; catholic"
+      },
+      {
+        "from": [
+          "reads, married",
+          "reads; is married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads, married"
+      },
+      {
+        "from": [
+          "cannot read; gets drunk; Married; can read a little",
+          "cannot read; gets drunk; married; learned to read"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "cannot read; gets drunk; Married; can read a little"
+      },
+      {
+        "from": [
+          "can't read, drinks, single",
+          "can't read, drinks little, single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can't read, drinks, single"
+      },
+      {
+        "from": [
+          "reads & writes German, sober, married",
+          "reads and writes German; sober; married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads & writes German, sober, married"
+      },
+      {
+        "from": [
+          "Reads, drunk, married",
+          "reads; unmarried; drinks"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Reads, drunk, married"
+      },
+      {
+        "from": [
+          "reads and writes, drinks, married, 3 children",
+          "reads, writes, drinks, married, 3 children"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes, drinks, married, 3 children"
+      },
+      {
+        "from": [
+          "Cannot read; drinks; single; reads German",
+          "Single, drank some, can't read"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cannot read; drinks; single; reads German"
+      }
+    ],
+    "description": "Mass edit cells in column ColumnNote"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "ColumnNote",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Can't read"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can't read or write"
+      }
+    ],
+    "description": "Mass edit cells in column ColumnNote"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "ColumnNote",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "can't read or write; has learned to read and write in prison"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can't read or write; has learned to read"
+      }
+    ],
+    "description": "Mass edit cells in column ColumnNote"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "ColumnNote",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "can't read or write; has learned to read"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can't read or write; has learned to read"
+      }
+    ],
+    "description": "Mass edit cells in column ColumnNote"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "ColumnNote",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Can't read or write; has learned to read in Prison; began at 14"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can't read or write; has learned to read in prison"
+      }
+    ],
+    "description": "Mass edit cells in column ColumnNote"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "ColumnNote",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Can't read or write; has learned to read in prison"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can't read or write; learned to read in prison"
+      }
+    ],
+    "description": "Mass edit cells in column ColumnNote"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "ColumnNote",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Can't read; has learned in prison"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can't read or write; learned to read in prison"
+      }
+    ],
+    "description": "Mass edit cells in column ColumnNote"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "ColumnNote",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Cannot read or write; gets drunk; married; has 2 children; reads now"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cannot read or write; gets drunk; married; reads now"
+      }
+    ],
+    "description": "Mass edit cells in column ColumnNote"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "ColumnNote",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "cannot read or write; gets drunk; married; learned to read"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cannot read or write; gets drunk; married; reads now"
+      }
+    ],
+    "description": "Mass edit cells in column ColumnNote"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "ColumnNote",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Can't read or write, drinks, married and one child",
+          "reads and writes, drinks, married, catholic"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can't read or write, drinks, married and one child"
+      }
+    ],
+    "description": "Mass edit cells in column ColumnNote"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "ColumnNote",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "reads and writes; gets drunk; single; began at 16",
+          "reads and writes; gets drunk; single; began at 25"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes; gets drunk; single;"
+      },
+      {
+        "from": [
+          "reads and writes; sober; single; began at 18",
+          "reads and writes; sober; single; began at 20"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes; sober; single"
+      }
+    ],
+    "description": "Mass edit cells in column ColumnNote"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "ColumnNote",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "reads and writes; gets drunk; single",
+          "reads and writes; gets drunk; single;"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes; gets drunk; single"
+      }
+    ],
+    "description": "Mass edit cells in column ColumnNote"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "ColumnNote",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "reads, sober, single",
+          "reads; sober; single; crime at 20",
+          "reads; sober; single; learned to read in prison"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads, sober, single"
+      },
+      {
+        "from": [
+          "can read; sober; single",
+          "can read; sober; single; began at 18; learned to write in prison",
+          "can read; sober; widower"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can read; sober; single"
+      },
+      {
+        "from": [
+          "reads, widower",
+          "reads; widower; learning to write"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads, widower"
+      },
+      {
+        "from": [
+          "reads, sober, married",
+          "reads; sober; married; began evidentally at 16 or 18"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads, sober, married"
+      }
+    ],
+    "description": "Mass edit cells in column ColumnNote"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "ColumnNote",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Can spell"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can spell"
+      }
+    ],
+    "description": "Mass edit cells in column ColumnNote"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "ColumnNote",
+    "expression": "grel:value.replace(\",\", \";\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column ColumnNote using expression grel:value.replace(\",\", \";\")"
+  },
+  {
+    "op": "core/column-split",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "ColumnNote",
+    "guessCellType": true,
+    "removeOriginalColumn": false,
+    "mode": "separator",
+    "separator": ";",
+    "regex": false,
+    "maxColumns": 0,
+    "description": "Split column ColumnNote by separator"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "ColumnNote 1",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "can read and write"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can read and write"
+      }
+    ],
+    "description": "Mass edit cells in column ColumnNote 1"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "ColumnNote 1",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "can spell"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can spell"
+      }
+    ],
+    "description": "Mass edit cells in column ColumnNote 1"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "ColumnNote 1",
+    "newColumnName": "Literacy",
+    "description": "Rename column ColumnNote 1 to Literacy"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "ColumnNote 2",
+    "newColumnName": "Sobriety",
+    "description": "Rename column ColumnNote 2 to Sobriety"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "ColumnNote 3",
+    "newColumnName": "Marriage Status",
+    "description": "Rename column ColumnNote 3 to Marriage Status"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "ColumnNote 6",
+    "description": "Remove column ColumnNote 6"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "ColumnNote 4",
+    "expression": "grel:cells[\"ColumnNote 4\"].value + \";\" + cells[\"ColumnNote 5\"].value",
+    "onError": "set-to-blank",
+    "newColumnName": "Extra",
+    "columnInsertIndex": 16,
+    "description": "Create column Extra at index 16 based on column ColumnNote 4 using expression grel:cells[\"ColumnNote 4\"].value + \";\" + cells[\"ColumnNote 5\"].value"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "ColumnNote 4",
+    "description": "Remove column ColumnNote 4"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "ColumnNote 5",
+    "description": "Remove column ColumnNote 5"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Literacy",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "reads German",
+          "Reads German",
+          "reads german"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads German"
+      },
+      {
+        "from": [
+          "reads only",
+          "Reads only"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads only"
+      },
+      {
+        "from": [
+          "Can't read or writes",
+          "can't read or writes"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can't read or write"
+      },
+      {
+        "from": [
+          "can read",
+          "Can read"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can read"
+      },
+      {
+        "from": [
+          "reads and writes German",
+          "Reads and writes German"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes German"
+      },
+      {
+        "from": [
+          "can't read",
+          "Can't read"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can't read"
+      },
+      {
+        "from": [
+          "cannot read",
+          "Cannot read"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "cannot read"
+      },
+      {
+        "from": [
+          "can't read or write",
+          "Can't read or write"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can't read or write"
+      },
+      {
+        "from": [
+          "cannot read or write",
+          "Cannot read or write"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "cannot read or write"
+      },
+      {
+        "from": [
+          "Can read a little",
+          "can read a little"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can read a little"
+      },
+      {
+        "from": [
+          "reads and writes a little",
+          "Reads and writes a little"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes a little"
+      },
+      {
+        "from": [
+          "reads",
+          "Reads"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads"
+      },
+      {
+        "from": [
+          "reads and writes",
+          "Reads and writes"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes"
+      }
+    ],
+    "description": "Mass edit cells in column Literacy"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Literacy",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "can't read or write",
+          "Can't read or write"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can't read or write"
+      }
+    ],
+    "description": "Mass edit cells in column Literacy"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Literacy",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "reads and writes German",
+          "reads & writes German"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes German"
+      },
+      {
+        "from": [
+          "cannot read",
+          "cannot read [[etc]]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "cannot read"
+      },
+      {
+        "from": [
+          "can't read or write",
+          "cannot read or write"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can't read or write"
+      },
+      {
+        "from": [
+          "Can read a little",
+          "Can read little"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can read a little"
+      }
+    ],
+    "description": "Mass edit cells in column Literacy"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Literacy",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "reads and writes",
+          "reads and writes German",
+          "reads and writes a little",
+          "Reads and writes some",
+          "reads and writes Danish",
+          "reads and writes French and German"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes"
+      },
+      {
+        "from": [
+          "can't read or write",
+          "cannot read or write; learning to read",
+          "cannot read or write English",
+          "cannot read or write; can spell a little"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can't read or write"
+      },
+      {
+        "from": [
+          "can't read",
+          "cannot read"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can't read"
+      },
+      {
+        "from": [
+          "cannot read; learned to read",
+          "cannot read; learning to spell"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "cannot read; learned to read"
+      },
+      {
+        "from": [
+          "Can read and write",
+          "Can read and write a little"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can read and write"
+      }
+    ],
+    "description": "Mass edit cells in column Literacy"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Literacy",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "reads & writes",
+          "reads & writes Dutch German",
+          "reads & writes Germ"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads & writes"
+      }
+    ],
+    "description": "Mass edit cells in column Literacy"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Literacy",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "reads",
+          "read"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads"
+      }
+    ],
+    "description": "Mass edit cells in column Literacy"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Literacy",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "doesn't read or write"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can't read or write"
+      }
+    ],
+    "description": "Mass edit cells in column Literacy"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Literacy",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "spells"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can spell"
+      }
+    ],
+    "description": "Mass edit cells in column Literacy"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Literacy",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "can spell"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can spell"
+      }
+    ],
+    "description": "Mass edit cells in column Literacy"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Literacy",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "spells only"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can spell"
+      }
+    ],
+    "description": "Mass edit cells in column Literacy"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Literacy",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "reads or writes"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can read or write"
+      }
+    ],
+    "description": "Mass edit cells in column Literacy"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Literacy",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Can read or write"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can read and write"
+      }
+    ],
+    "description": "Mass edit cells in column Literacy"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Literacy",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "can't read"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can't read or write"
+      }
+    ],
+    "description": "Mass edit cells in column Literacy"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Literacy",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "reads & writes"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can read and write"
+      }
+    ],
+    "description": "Mass edit cells in column Literacy"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Literacy",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Could not read"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can't read or write"
+      }
+    ],
+    "description": "Mass edit cells in column Literacy"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Literacy",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "reads and writes"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can read and write"
+      }
+    ],
+    "description": "Mass edit cells in column Literacy"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Literacy",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "can read and write"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can read and write"
+      }
+    ],
+    "description": "Mass edit cells in column Literacy"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Literacy",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "reads only"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can read"
+      }
+    ],
+    "description": "Mass edit cells in column Literacy"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Literacy",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "reads"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can read"
+      }
+    ],
+    "description": "Mass edit cells in column Literacy"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Literacy",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "reads a little"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can read"
+      }
+    ],
+    "description": "Mass edit cells in column Literacy"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Literacy",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "good education"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "well educated"
+      }
+    ],
+    "description": "Mass edit cells in column Literacy"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Literacy",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "spells and read"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can read"
+      }
+    ],
+    "description": "Mass edit cells in column Literacy"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Literacy",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "reads dutch"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can read"
+      }
+    ],
+    "description": "Mass edit cells in column Literacy"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Literacy",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "reads German"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can read"
+      }
+    ],
+    "description": "Mass edit cells in column Literacy"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sobriety",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          " drinks",
+          "drinks",
+          "Drinks"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " drinks"
+      },
+      {
+        "from": [
+          " German",
+          " german"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " German"
+      },
+      {
+        "from": [
+          "Was drunk",
+          "was drunk"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Was drunk"
+      },
+      {
+        "from": [
+          " sober",
+          " Sober"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " sober"
+      },
+      {
+        "from": [
+          " gets drunk",
+          "Gets drunk"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " gets drunk"
+      },
+      {
+        "from": [
+          " drunk often",
+          " often drunk"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " drunk often"
+      }
+    ],
+    "description": "Mass edit cells in column Sobriety"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sobriety",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          " gets drunk sometimes",
+          " got drunk sometimes"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " gets drunk sometimes"
+      },
+      {
+        "from": [
+          " drank occasionally",
+          " drinks occasionally"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " drank occasionally"
+      },
+      {
+        "from": [
+          " gets drunk",
+          " gets drunks"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " gets drunk"
+      }
+    ],
+    "description": "Mass edit cells in column Sobriety"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sobriety",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          " drunk",
+          " drank",
+          " drink"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " drunk"
+      },
+      {
+        "from": [
+          " has learned to read",
+          " has learned to read in prison"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "learned to read"
+      },
+      {
+        "from": [
+          " learned to read in prison",
+          " learned to write in prison"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " learned to read"
+      },
+      {
+        "from": [
+          " drank occasionally",
+          " drunk occasionally"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " drank occasionally"
+      },
+      {
+        "from": [
+          " learned to read",
+          " learned to write"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " learned to read"
+      }
+    ],
+    "description": "Mass edit cells in column Sobriety"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sobriety",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          " learned to read",
+          "learned to read"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " learned to read"
+      }
+    ],
+    "description": "Mass edit cells in column Sobriety"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sobriety",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          " drank some",
+          " drinks some"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " drank some"
+      }
+    ],
+    "description": "Mass edit cells in column Sobriety"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sobriety",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          " gets drunk",
+          " gets drunk sometimes"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " gets drunk"
+      },
+      {
+        "from": [
+          " drank some",
+          " drunk sometimes"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " drank some"
+      },
+      {
+        "from": [
+          " drinks a little",
+          " drinks seldom"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " drinks a little"
+      }
+    ],
+    "description": "Mass edit cells in column Sobriety"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sobriety",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          " drinks often",
+          " drinks but does not get drunk",
+          " drinks wine"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " drinks often"
+      }
+    ],
+    "description": "Mass edit cells in column Sobriety"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sobriety",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          " some drinks often"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "drinks often"
+      }
+    ],
+    "description": "Mass edit cells in column Sobriety"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sobriety",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          " widower"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " widow"
+      }
+    ],
+    "description": "Mass edit cells in column Sobriety"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sobriety",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "drinks often"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "drinks often"
+      }
+    ],
+    "description": "Mass edit cells in column Sobriety"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sobriety",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          " drinks often"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "drinks often"
+      }
+    ],
+    "description": "Mass edit cells in column Sobriety"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sobriety",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          " write"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Writes"
+      }
+    ],
+    "description": "Mass edit cells in column Sobriety"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sobriety",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          " writes a little"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Writes"
+      }
+    ],
+    "description": "Mass edit cells in column Sobriety"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sobriety",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          " writes"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Writes"
+      }
+    ],
+    "description": "Mass edit cells in column Sobriety"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sobriety",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          " widow"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Widow"
+      }
+    ],
+    "description": "Mass edit cells in column Sobriety"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sobriety",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          " can join 2 and 3 letters"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can spell"
+      }
+    ],
+    "description": "Mass edit cells in column Sobriety"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sobriety",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          " drank at time heavily"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "drinks hard"
+      }
+    ],
+    "description": "Mass edit cells in column Sobriety"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sobriety",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          " drinks hard"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "drinks hard"
+      }
+    ],
+    "description": "Mass edit cells in column Sobriety"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sobriety",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          " German protestant"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " German"
+      }
+    ],
+    "description": "Mass edit cells in column Sobriety"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sobriety",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          " can now read"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "learned to read"
+      }
+    ],
+    "description": "Mass edit cells in column Sobriety"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sobriety",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "learned to read"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "learned to read"
+      }
+    ],
+    "description": "Mass edit cells in column Sobriety"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sobriety",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          " learned to read",
+          "learned to read"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " learned to read"
+      }
+    ],
+    "description": "Mass edit cells in column Sobriety"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sobriety",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          " drank occasionally"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " drank a little"
+      }
+    ],
+    "description": "Mass edit cells in column Sobriety"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sobriety",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          " drank some"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " drank a little"
+      }
+    ],
+    "description": "Mass edit cells in column Sobriety"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sobriety",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          " unmarried"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "single"
+      }
+    ],
+    "description": "Mass edit cells in column Sobriety"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sobriety",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          " single",
+          "single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " single"
+      }
+    ],
+    "description": "Mass edit cells in column Sobriety"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Marriage Status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          " single",
+          "Single",
+          "single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " single"
+      },
+      {
+        "from": [
+          " married",
+          " Married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " married"
+      }
+    ],
+    "description": "Mass edit cells in column Marriage Status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Marriage Status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          " has learned to read and write arithmatic",
+          " has learned to read in prison",
+          " has learned to read in prison to write some arithmatic",
+          " has learned to read well in Prison"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " has learned to read and write"
+      },
+      {
+        "from": [
+          " married with 4 children",
+          " married with 5 children"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "married with children"
+      },
+      {
+        "from": [
+          " married & 6 children",
+          "Married; 2 children"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "married with children"
+      }
+    ],
+    "description": "Mass edit cells in column Marriage Status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Marriage Status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          " can spell a little only"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " can spell"
+      }
+    ],
+    "description": "Mass edit cells in column Marriage Status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Marriage Status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          " doesn't know a letter"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can't read or write"
+      }
+    ],
+    "description": "Mass edit cells in column Marriage Status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Marriage Status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          " can't read or write"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can't read or write"
+      }
+    ],
+    "description": "Mass edit cells in column Marriage Status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Marriage Status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          " drank but not much"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " drank a little"
+      }
+    ],
+    "description": "Mass edit cells in column Marriage Status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Marriage Status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          " drank some"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " drank a little"
+      }
+    ],
+    "description": "Mass edit cells in column Marriage Status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Marriage Status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          " drink a little"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " drank a little"
+      }
+    ],
+    "description": "Mass edit cells in column Marriage Status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Marriage Status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          " got drunk occasionally"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " got drunk at times"
+      }
+    ],
+    "description": "Mass edit cells in column Marriage Status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Marriage Status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          " married & has child"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " married with children"
+      }
+    ],
+    "description": "Mass edit cells in column Marriage Status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Marriage Status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          " married and has 9 children"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " married with children"
+      }
+    ],
+    "description": "Mass edit cells in column Marriage Status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Marriage Status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          " married and 3 children"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " married with children"
+      }
+    ],
+    "description": "Mass edit cells in column Marriage Status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Marriage Status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          " married and one child"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " married with children"
+      }
+    ],
+    "description": "Mass edit cells in column Marriage Status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Marriage Status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "married with children",
+          " married with children"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "married with children"
+      }
+    ],
+    "description": "Mass edit cells in column Marriage Status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Marriage Status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          " married but parted from husband"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " married but separated"
+      }
+    ],
+    "description": "Mass edit cells in column Marriage Status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Marriage Status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          " temperate drinker"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " temperate"
+      }
+    ],
+    "description": "Mass edit cells in column Marriage Status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Marriage Status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          " wife & 6 children"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "married with children"
+      }
+    ],
+    "description": "Mass edit cells in column Marriage Status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Marriage Status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          " widowed"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " widow"
+      }
+    ],
+    "description": "Mass edit cells in column Marriage Status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Marriage Status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          " widower"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " widow"
+      }
+    ],
+    "description": "Mass edit cells in column Marriage Status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Marriage Status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          " unmarried"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "single"
+      }
+    ],
+    "description": "Mass edit cells in column Marriage Status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Marriage Status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          " single",
+          "single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " single"
+      }
+    ],
+    "description": "Mass edit cells in column Marriage Status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Marriage Status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          " 6 children in New York"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "married with children"
+      }
+    ],
+    "description": "Mass edit cells in column Marriage Status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Marriage Status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          " 1 child"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "married with children"
+      }
+    ],
+    "description": "Mass edit cells in column Marriage Status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Marriage Status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          " separated from wife"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "married but separated"
+      }
+    ],
+    "description": "Mass edit cells in column Marriage Status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Marriage Status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          " married but separated",
+          "married but separated"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " married but separated"
+      }
+    ],
+    "description": "Mass edit cells in column Marriage Status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Marriage Status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          " spells a little"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can spell"
+      }
+    ],
+    "description": "Mass edit cells in column Marriage Status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Marriage Status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          " reads and writes German"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can read and write"
+      }
+    ],
+    "description": "Mass edit cells in column Marriage Status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Marriage Status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          " reads German"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can read"
+      }
+    ],
+    "description": "Mass edit cells in column Marriage Status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Marriage Status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          " has learned to read and write"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " has learned to read and write"
+      }
+    ],
+    "description": "Mass edit cells in column Marriage Status"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Marriage Status",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Marriage Status using expression value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sobriety",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sobriety using expression value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Literacy",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Literacy using expression value.trim()"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sobriety",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "drank a little"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "drinks a little"
+      }
+    ],
+    "description": "Mass edit cells in column Sobriety"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sobriety",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "drank hard",
+          "drunkard"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "drank hard"
+      },
+      {
+        "from": [
+          "drunk",
+          "drank"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "drunk"
+      }
+    ],
+    "description": "Mass edit cells in column Sobriety"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Marriage Status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "widow",
+          "Widow"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "widow"
+      }
+    ],
+    "description": "Mass edit cells in column Marriage Status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Literacy",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Can spell",
+          "can spell"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can spell"
+      },
+      {
+        "from": [
+          "Can read and write",
+          "can read and write"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can read and write"
+      }
+    ],
+    "description": "Mass edit cells in column Literacy"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Literacy",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "has learned to read and write",
+          "has learned to read in prison"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "has learned to read and write"
+      }
+    ],
+    "description": "Mass edit cells in column Literacy"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sobriety",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "drunk",
+          "drank"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "drunk"
+      }
+    ],
+    "description": "Mass edit cells in column Sobriety"
+  },
+  {
+    "op": "core/column-split",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "EthnicityReligionOccupation",
+    "guessCellType": true,
+    "removeOriginalColumn": false,
+    "mode": "separator",
+    "separator": ";",
+    "regex": false,
+    "maxColumns": 0,
+    "description": "Split column EthnicityReligionOccupation by separator"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "EthnicityReligionOccupation 1",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column EthnicityReligionOccupation 1 using expression value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "EthnicityReligionOccupation 3",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column EthnicityReligionOccupation 3 using expression value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "EthnicityReligionOccupation 2",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column EthnicityReligionOccupation 2 using expression value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "EthnicityReligionOccupation 1",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column EthnicityReligionOccupation 1 using expression value.trim()"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "EthnicityReligionOccupation 1",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Showmaker, never Boused",
+          "Showmaker, never bound"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Showmaker, never bound"
+      },
+      {
+        "from": [
+          "Tobacconist",
+          "Tobbaconist"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Tobacconist"
+      }
+    ],
+    "description": "Mass edit cells in column EthnicityReligionOccupation 1"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "EthnicityReligionOccupation 1",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Carder",
+          "Carter"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Carter"
+      },
+      {
+        "from": [
+          "Merchant",
+          "Marchant"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Merchant"
+      },
+      {
+        "from": [
+          "Tailor",
+          "Taylor"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Tailor"
+      }
+    ],
+    "description": "Mass edit cells in column EthnicityReligionOccupation 1"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "EthnicityReligionOccupation 1",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Cotton Spinner",
+          "Cotton spinner and weaver"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cotton Spinner"
+      }
+    ],
+    "description": "Mass edit cells in column EthnicityReligionOccupation 1"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "EthnicityReligionOccupation 2",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Female",
+          "female"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Female"
+      },
+      {
+        "from": [
+          "Weaver",
+          "weaver"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Weaver"
+      },
+      {
+        "from": [
+          "Laborer",
+          "laborer"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Laborer"
+      }
+    ],
+    "description": "Mass edit cells in column EthnicityReligionOccupation 2"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "EthnicityReligionOccupation 1",
+          "expression": "value",
+          "columnName": "EthnicityReligionOccupation 1",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Female",
+                "l": "Female"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "baseColumnName": "EthnicityReligionOccupation 1",
+    "expression": "grel:value",
+    "onError": "set-to-blank",
+    "newColumnName": "Gender",
+    "columnInsertIndex": 5,
+    "description": "Create column Gender at index 5 based on column EthnicityReligionOccupation 1 using expression grel:value"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "EthnicityReligionOccupation 3",
+          "expression": "value",
+          "columnName": "EthnicityReligionOccupation 3",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Female",
+                "l": "Female"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "baseColumnName": "EthnicityReligionOccupation 3",
+    "expression": "join ([cells['EthnicityReligionOccupation 3'].value,cells['Gender'].value],'')",
+    "onError": "keep-original",
+    "newColumnName": "Gender 2",
+    "columnInsertIndex": 8,
+    "description": "Create column Gender 2 at index 8 based on column EthnicityReligionOccupation 3 using expression join ([cells['EthnicityReligionOccupation 3'].value,cells['Gender'].value],'')"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "Gender 2",
+    "expression": "join ([cells['Gender 2'].value,cells['Gender'].value],'')",
+    "onError": "keep-original",
+    "newColumnName": "Gender 3",
+    "columnInsertIndex": 9,
+    "description": "Create column Gender 3 at index 9 based on column Gender 2 using expression join ([cells['Gender 2'].value,cells['Gender'].value],'')"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Gender",
+    "description": "Remove column Gender"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Gender 2",
+    "description": "Remove column Gender 2"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Gender 3",
+    "newColumnName": "Gender",
+    "description": "Rename column Gender 3 to Gender"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "EthnicityReligionOccupation 1",
+          "expression": "value",
+          "columnName": "EthnicityReligionOccupation 1",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Catholic",
+                "l": "Catholic"
+              }
+            },
+            {
+              "v": {
+                "v": "Presbyterian",
+                "l": "Presbyterian"
+              }
+            },
+            {
+              "v": {
+                "v": "Irish Presbyterian",
+                "l": "Irish Presbyterian"
+              }
+            },
+            {
+              "v": {
+                "v": "Irish Protestant",
+                "l": "Irish Protestant"
+              }
+            },
+            {
+              "v": {
+                "v": "Protestant",
+                "l": "Protestant"
+              }
+            },
+            {
+              "v": {
+                "v": "Irish Catholic",
+                "l": "Irish Catholic"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "baseColumnName": "EthnicityReligionOccupation 1",
+    "expression": "join ([cells['EthnicityReligionOccupation 1'].value,cells['EthnicityReligionOccupation 3'].value],'')",
+    "onError": "keep-original",
+    "newColumnName": "Religion",
+    "columnInsertIndex": 5,
+    "description": "Create column Religion at index 5 based on column EthnicityReligionOccupation 1 using expression join ([cells['EthnicityReligionOccupation 1'].value,cells['EthnicityReligionOccupation 3'].value],'')"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "EthnicityReligionOccupation 3",
+    "description": "Remove column EthnicityReligionOccupation 3"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "EthnicityReligionOccupation 1",
+          "expression": "value",
+          "columnName": "EthnicityReligionOccupation 1",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Cedar cooper",
+                "l": "Cedar cooper"
+              }
+            },
+            {
+              "v": {
+                "v": "Carter",
+                "l": "Carter"
+              }
+            },
+            {
+              "v": {
+                "v": "Painter",
+                "l": "Painter"
+              }
+            },
+            {
+              "v": {
+                "v": "Lawyer",
+                "l": "Lawyer"
+              }
+            },
+            {
+              "v": {
+                "v": "Shoemaker",
+                "l": "Shoemaker"
+              }
+            },
+            {
+              "v": {
+                "v": "Butcher",
+                "l": "Butcher"
+              }
+            },
+            {
+              "v": {
+                "v": "Schoolmaster",
+                "l": "Schoolmaster"
+              }
+            },
+            {
+              "v": {
+                "v": "Miner",
+                "l": "Miner"
+              }
+            },
+            {
+              "v": {
+                "v": "Brush Maker",
+                "l": "Brush Maker"
+              }
+            },
+            {
+              "v": {
+                "v": "Tobacconist",
+                "l": "Tobacconist"
+              }
+            },
+            {
+              "v": {
+                "v": "Brickmaker",
+                "l": "Brickmaker"
+              }
+            },
+            {
+              "v": {
+                "v": "Brick layer",
+                "l": "Brick layer"
+              }
+            },
+            {
+              "v": {
+                "v": "Merchant",
+                "l": "Merchant"
+              }
+            },
+            {
+              "v": {
+                "v": "Baker",
+                "l": "Baker"
+              }
+            },
+            {
+              "v": {
+                "v": "Brewer",
+                "l": "Brewer"
+              }
+            },
+            {
+              "v": {
+                "v": "Bookbinder",
+                "l": "Bookbinder"
+              }
+            },
+            {
+              "v": {
+                "v": "Trader",
+                "l": "Trader"
+              }
+            },
+            {
+              "v": {
+                "v": "Coppersmith",
+                "l": "Coppersmith"
+              }
+            },
+            {
+              "v": {
+                "v": "Waggoner",
+                "l": "Waggoner"
+              }
+            },
+            {
+              "v": {
+                "v": "Stone cutter",
+                "l": "Stone cutter"
+              }
+            },
+            {
+              "v": {
+                "v": "Carpet weaver",
+                "l": "Carpet weaver"
+              }
+            },
+            {
+              "v": {
+                "v": "Waterman",
+                "l": "Waterman"
+              }
+            },
+            {
+              "v": {
+                "v": "Farmer",
+                "l": "Farmer"
+              }
+            },
+            {
+              "v": {
+                "v": "Cooper",
+                "l": "Cooper"
+              }
+            },
+            {
+              "v": {
+                "v": "Tailor",
+                "l": "Tailor"
+              }
+            },
+            {
+              "v": {
+                "v": "Servant",
+                "l": "Servant"
+              }
+            },
+            {
+              "v": {
+                "v": "Barber",
+                "l": "Barber"
+              }
+            },
+            {
+              "v": {
+                "v": "Clothier",
+                "l": "Clothier"
+              }
+            },
+            {
+              "v": {
+                "v": "Contractor",
+                "l": "Contractor"
+              }
+            },
+            {
+              "v": {
+                "v": "Seaman",
+                "l": "Seaman"
+              }
+            },
+            {
+              "v": {
+                "v": "Stone mason",
+                "l": "Stone mason"
+              }
+            },
+            {
+              "v": {
+                "v": "Clock and watchmaker",
+                "l": "Clock and watchmaker"
+              }
+            },
+            {
+              "v": {
+                "v": "Sailor",
+                "l": "Sailor"
+              }
+            },
+            {
+              "v": {
+                "v": "Boatman",
+                "l": "Boatman"
+              }
+            },
+            {
+              "v": {
+                "v": "Teacher",
+                "l": "Teacher"
+              }
+            },
+            {
+              "v": {
+                "v": "Fisherman",
+                "l": "Fisherman"
+              }
+            },
+            {
+              "v": {
+                "v": "Coach trainer",
+                "l": "Coach trainer"
+              }
+            },
+            {
+              "v": {
+                "v": "Carpenter",
+                "l": "Carpenter"
+              }
+            },
+            {
+              "v": {
+                "v": "Blacksmith",
+                "l": "Blacksmith"
+              }
+            },
+            {
+              "v": {
+                "v": "Laborer",
+                "l": "Laborer"
+              }
+            },
+            {
+              "v": {
+                "v": "Engineer",
+                "l": "Engineer"
+              }
+            },
+            {
+              "v": {
+                "v": "Clerk",
+                "l": "Clerk"
+              }
+            },
+            {
+              "v": {
+                "v": "Cabinet Maker",
+                "l": "Cabinet Maker"
+              }
+            },
+            {
+              "v": {
+                "v": "Cotton Spinner",
+                "l": "Cotton Spinner"
+              }
+            },
+            {
+              "v": {
+                "v": "Physician",
+                "l": "Physician"
+              }
+            },
+            {
+              "v": {
+                "v": "Carder and spinner",
+                "l": "Carder and spinner"
+              }
+            },
+            {
+              "v": {
+                "v": "Architect",
+                "l": "Architect"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "baseColumnName": "EthnicityReligionOccupation 1",
+    "expression": "grel:value",
+    "onError": "set-to-blank",
+    "newColumnName": "Occupation to merge",
+    "columnInsertIndex": 5,
+    "description": "Create column Occupation to merge at index 5 based on column EthnicityReligionOccupation 1 using expression grel:value"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "EthnicityReligionOccupation 2",
+    "expression": "join ([cells['EthnicityReligionOccupation 2'].value,cells['Occupation to merge'].value],'')",
+    "onError": "keep-original",
+    "newColumnName": "Occupation",
+    "columnInsertIndex": 8,
+    "description": "Create column Occupation at index 8 based on column EthnicityReligionOccupation 2 using expression join ([cells['EthnicityReligionOccupation 2'].value,cells['Occupation to merge'].value],'')"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "EthnicityReligionOccupation 2",
+    "description": "Remove column EthnicityReligionOccupation 2"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Occupation to merge",
+    "description": "Remove column Occupation to merge"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "laborer"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Laborer"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "EthnicityReligionOccupation 1",
+          "expression": "value",
+          "columnName": "EthnicityReligionOccupation 1",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Very light mulatto",
+                "l": "Very light mulatto"
+              }
+            },
+            {
+              "v": {
+                "v": "Black",
+                "l": "Black"
+              }
+            },
+            {
+              "v": {
+                "v": "Black & White Smith, Protestant",
+                "l": "Black & White Smith, Protestant"
+              }
+            },
+            {
+              "v": {
+                "v": "Light mulatto",
+                "l": "Light mulatto"
+              }
+            },
+            {
+              "v": {
+                "v": "Whites smith",
+                "l": "Whites smith"
+              }
+            },
+            {
+              "v": {
+                "v": "German, wheelwright & cabinet maker",
+                "l": "German, wheelwright & cabinet maker"
+              }
+            },
+            {
+              "v": {
+                "v": "Dark mulatto",
+                "l": "Dark mulatto"
+              }
+            },
+            {
+              "v": {
+                "v": "German",
+                "l": "German"
+              }
+            },
+            {
+              "v": {
+                "v": "German Lutheran, carpenter",
+                "l": "German Lutheran, carpenter"
+              }
+            },
+            {
+              "v": {
+                "v": "Bricklayer, mulatto",
+                "l": "Bricklayer, mulatto"
+              }
+            },
+            {
+              "v": {
+                "v": "Mulatto",
+                "l": "Mulatto"
+              }
+            },
+            {
+              "v": {
+                "v": "Barber, light mulatto",
+                "l": "Barber, light mulatto"
+              }
+            },
+            {
+              "v": {
+                "v": "Light black",
+                "l": "Light black"
+              }
+            },
+            {
+              "v": {
+                "v": "Bright Mulatto",
+                "l": "Bright Mulatto"
+              }
+            },
+            {
+              "v": {
+                "v": "Black & mulatto",
+                "l": "Black & mulatto"
+              }
+            },
+            {
+              "v": {
+                "v": "Clerk, White",
+                "l": "Clerk, White"
+              }
+            },
+            {
+              "v": {
+                "v": "White",
+                "l": "White"
+              }
+            },
+            {
+              "v": {
+                "v": "Half Indian",
+                "l": "Half Indian"
+              }
+            },
+            {
+              "v": {
+                "v": "Mulatto or Sambo",
+                "l": "Mulatto or Sambo"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "baseColumnName": "EthnicityReligionOccupation 1",
+    "expression": "grel:value",
+    "onError": "set-to-blank",
+    "newColumnName": "Ethnicity",
+    "columnInsertIndex": 5,
+    "description": "Create column Ethnicity at index 5 based on column EthnicityReligionOccupation 1 using expression grel:value"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "EthnicityReligionOccupation 1",
+          "expression": "value",
+          "columnName": "EthnicityReligionOccupation 1",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Black & White Smith, Protestant",
+                "l": "Black & White Smith, Protestant"
+              }
+            },
+            {
+              "v": {
+                "v": "Catholic",
+                "l": "Catholic"
+              }
+            },
+            {
+              "v": {
+                "v": "Presbyterian",
+                "l": "Presbyterian"
+              }
+            },
+            {
+              "v": {
+                "v": "German Lutheran, carpenter",
+                "l": "German Lutheran, carpenter"
+              }
+            },
+            {
+              "v": {
+                "v": "Irish Presbyterian",
+                "l": "Irish Presbyterian"
+              }
+            },
+            {
+              "v": {
+                "v": "Weaver, Presbyterian",
+                "l": "Weaver, Presbyterian"
+              }
+            },
+            {
+              "v": {
+                "v": "Ostler, Irish Catholic",
+                "l": "Ostler, Irish Catholic"
+              }
+            },
+            {
+              "v": {
+                "v": "Catholic, baker",
+                "l": "Catholic, baker"
+              }
+            },
+            {
+              "v": {
+                "v": "Irish Protestant",
+                "l": "Irish Protestant"
+              }
+            },
+            {
+              "v": {
+                "v": "Catholic, cabinet maker",
+                "l": "Catholic, cabinet maker"
+              }
+            },
+            {
+              "v": {
+                "v": "Protestant",
+                "l": "Protestant"
+              }
+            },
+            {
+              "v": {
+                "v": "Shoemaker, German Lutheran",
+                "l": "Shoemaker, German Lutheran"
+              }
+            },
+            {
+              "v": {
+                "v": "Irish Catholic",
+                "l": "Irish Catholic"
+              }
+            },
+            {
+              "v": {
+                "v": "Catholic, Stone cutter",
+                "l": "Catholic, Stone cutter"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "baseColumnName": "EthnicityReligionOccupation 1",
+    "expression": "join ([cells['EthnicityReligionOccupation 1'].value,cells['Religion'].value],'')",
+    "onError": "keep-original",
+    "newColumnName": "Religion 2",
+    "columnInsertIndex": 5,
+    "description": "Create column Religion 2 at index 5 based on column EthnicityReligionOccupation 1 using expression join ([cells['EthnicityReligionOccupation 1'].value,cells['Religion'].value],'')"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Religion",
+    "description": "Remove column Religion"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Religion 2",
+    "newColumnName": "Religion",
+    "description": "Rename column Religion 2 to Religion"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Religion",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "CatholicCatholic"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Catholic"
+      }
+    ],
+    "description": "Mass edit cells in column Religion"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Religion",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Irish CatholicIrish Catholic"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Irish Catholic"
+      }
+    ],
+    "description": "Mass edit cells in column Religion"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Religion",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Irish PresbyterianIrish Presbyterian"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Irish Presbyterian"
+      }
+    ],
+    "description": "Mass edit cells in column Religion"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Religion",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Irish ProtestantIrish Protestant"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Irish Protestant"
+      }
+    ],
+    "description": "Mass edit cells in column Religion"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Religion",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "PresbyterianPresbyterian"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Presbyterian"
+      }
+    ],
+    "description": "Mass edit cells in column Religion"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Religion",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "ProtestantProtestant"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Protestant"
+      }
+    ],
+    "description": "Mass edit cells in column Religion"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "EthnicityReligionOccupation 1",
+    "description": "Remove column EthnicityReligionOccupation 1"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "AdmissionDate",
+    "expression": "value.toDate()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column AdmissionDate using expression value.toDate()"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "5 yrs 3 mos",
+          "5 yrs 3 mos.",
+          "5 yrs, 3 mos"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "5 yrs 3 mos"
+      },
+      {
+        "from": [
+          "7 yrs",
+          "[[7 yrs]]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "7 yrs"
+      },
+      {
+        "from": [
+          "18 mos from 18 Sept",
+          "18 mos from 18 Sept."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "18 mos from 18 Sept"
+      },
+      {
+        "from": [
+          "18 mos",
+          "18 mos."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "18 mos"
+      },
+      {
+        "from": [
+          "1 yr 1 day",
+          "1 yr & 1 day"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1 yr & 1 day"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "5 yrs",
+          "5yrs"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "5 yrs"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "1 yr 10 days from 10th of Feb."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1 yr 10 days"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "1 yr from Aug 21"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1 yr"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "12 yrs (2 indictments of 6 yrs)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "12 yrs"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "13 mos from 14th"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "13 mos"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "16 mos from 13th"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "16 mos"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "17 mos from Dec. 2nd"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "17 mos"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "18 mos from 18 Sept"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "18 mos"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "19 yrs (3 convictions)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "19 yrs"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "2 yrs from 22nd"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "2 yrs"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "2 yrs from Dec 15"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "2 yrs"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "2 yrs from the 24th"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "2 yrs"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "20 yrs (4 convictions of 5 yrs)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "20 yrs"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "3 yrs from 17th"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "3 yrs"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "3 yrs from 19th"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "3 yrs"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "3 yrs from Dec 15"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "3 yrs"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "3 yrs from Sep 21"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "3 yrs"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "3 yrs from the 17th"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "3 yrs"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "4 yrs from Sept 15th 1837"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "4 yrs"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "4 yrs from the 10th"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "4 yrs"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "4 yrs from the 15th"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "4 yrs"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "7 yrs on 6 indictments"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "7 yrs"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "6 yrs + 3= 9 yrs"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "9 yrs"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "6 + 5 = 11 yrs"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "11 yrs"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "2 yrs + 3 to County prison"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "5 yrs"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "Sentencing",
+    "expression": "grel:value.find(/([0-9]+)\\s(mos+)/).join(\"\").replace(\"mos\",\"\")",
+    "onError": "set-to-blank",
+    "newColumnName": "Months",
+    "columnInsertIndex": 14,
+    "description": "Create column Months at index 14 based on column Sentencing using expression grel:value.find(/([0-9]+)\\s(mos+)/).join(\"\").replace(\"mos\",\"\")"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "Sentencing",
+    "expression": "grel:value.find(/([0-9]+)\\s(yr+)/).join(\"\").replace(\"yr\",\"\")",
+    "onError": "set-to-blank",
+    "newColumnName": "Years",
+    "columnInsertIndex": 14,
+    "description": "Create column Years at index 14 based on column Sentencing using expression grel:value.find(/([0-9]+)\\s(yr+)/).join(\"\").replace(\"yr\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Years",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Years using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Months",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Months using expression value.toNumber()"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "Years",
+    "expression": "grel:sum([value * 12, cells.Months.value])",
+    "onError": "set-to-blank",
+    "newColumnName": "Sentence in Months",
+    "columnInsertIndex": 15,
+    "description": "Create column Sentence in Months at index 15 based on column Years using expression grel:sum([value * 12, cells.Months.value])"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Years",
+    "description": "Remove column Years"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Months",
+    "description": "Remove column Months"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Seaman",
+          "seaman"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Seaman"
+      },
+      {
+        "from": [
+          "Cabinet Maker",
+          "Cabinet maker"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cabinet Maker"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "EthnicityReligionOccupation",
+    "description": "Remove column EthnicityReligionOccupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Literacy",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Can read and write",
+          "can read and write"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can read and write"
+      }
+    ],
+    "description": "Mass edit cells in column Literacy"
+  }
+]
